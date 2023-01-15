@@ -3,5 +3,9 @@
 
 class Engine
 {
+public:
+	void Init()
+	{
 
+	}
 };
