@@ -18,6 +18,12 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GLEW\eglew.h" />
+    <ClInclude Include="GLEW\glew.h" />
+    <ClInclude Include="GLEW\glxew.h" />
+    <ClInclude Include="GLEW\wglew.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>

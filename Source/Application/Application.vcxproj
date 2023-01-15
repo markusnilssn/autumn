@@ -188,12 +188,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="GLEW\eglew.h" />
-    <ClInclude Include="GLEW\glew.h" />
-    <ClInclude Include="GLEW\glxew.h" />
-    <ClInclude Include="GLEW\wglew.h" />
-    <ClInclude Include="GLFW\glfw3.h" />
-    <ClInclude Include="GLFW\glfw3native.h" />
     <ClInclude Include="Precompiled\stdafx.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
