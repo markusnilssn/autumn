@@ -1,6 +1,9 @@
 #include "stdafx.h"
 #include "Shader.h"
 
+#include <glad/glad.h>
+
+
 #include <iostream>
 
 namespace Autumn

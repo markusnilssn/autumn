@@ -1,7 +1,10 @@
 #include "stdafx.h"
 #include "ResourceManager.h"
 
-#include "GLEW/glew.h"
+#include <glad/glad.h>
+
+#include "Graphics/Shader.h"
+#include "Graphics/Texture2D.h"
 
 #include "stb_image.h"
 

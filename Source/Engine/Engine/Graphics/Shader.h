@@ -1,7 +1,6 @@
 #pragma once
 #include <string>
 
-//#include <GLAD/glad.h>
 #include <glm/glm.hpp>
 #include <glm/gtc/type_ptr.hpp>
 
@@ -11,6 +10,7 @@ namespace Autumn
     {
         class Shader
         {
+        public: 
              unsigned int ID;
              Shader();
          

@@ -1,8 +1,8 @@
 #include <stdafx.h>
 
-#pragma comment (lib, "glew32s.lib")
-#define GLEW_STATIC
-#include <GLEW/glew.h>
+// #pragma comment (lib, "glew32s.lib")
+// #define GLEW_STATIC
+// #include <GLEW/glew.h>
 #include <GLFW/glfw3.h>
 
 #include <array>

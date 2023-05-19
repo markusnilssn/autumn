@@ -1,7 +1,5 @@
 #pragma once
 
-#include <GLEW/glew.h>
-
 #ifdef _DEBUG
 
 #define GL_ASSERT(x) if(!(x)) __debugbreak();

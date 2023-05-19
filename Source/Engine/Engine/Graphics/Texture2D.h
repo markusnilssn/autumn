@@ -6,6 +6,7 @@ namespace Autumn
 	{
 		class Texture2D
 		{
+        public: 
             // holds the ID of the texture object, used for all texture operations to reference to this particlar texture
             unsigned int ID;
             // texture image dimensions
